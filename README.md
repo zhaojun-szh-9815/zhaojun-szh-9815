@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Zihao%20Shen&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=60)
+
+## Hi there, this is Zihao (Thomas) Shen
 
 [![Resume](https://img.shields.io/badge/-resume-000000?style=for-the-badge&logo=notion&logoColor=white)](https://zihao-shen.notion.site/zihao-shen/Zihao-Shen-351c4a5552ef4e0993cdb494befea2f5)
+[![Profile](https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://zhaojun-szh-9815.github.io/)
+
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thomas.shen.98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihao-shen/)
-
-## Welcome, this is Zihao (Thomas) Shen
 
 <details open>
 <summary></summary>
